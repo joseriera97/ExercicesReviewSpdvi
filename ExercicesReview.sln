@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceForEach", "Exercice
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListModificationChallenge", "ListModificationChallengeStarterCode\ListModificationChallenge\ListModificationChallenge.csproj", "{45D4F02A-A84A-4A3A-899E-486924C42FE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceDateTimeChallenge", "ExerciceDateTimeChallenge\ExerciceDateTimeChallenge.csproj", "{306C4D6C-0201-438B-898B-D77EEE88D937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{45D4F02A-A84A-4A3A-899E-486924C42FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45D4F02A-A84A-4A3A-899E-486924C42FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45D4F02A-A84A-4A3A-899E-486924C42FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306C4D6C-0201-438B-898B-D77EEE88D937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306C4D6C-0201-438B-898B-D77EEE88D937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306C4D6C-0201-438B-898B-D77EEE88D937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306C4D6C-0201-438B-898B-D77EEE88D937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
